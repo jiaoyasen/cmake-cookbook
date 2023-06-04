@@ -1,0 +1,13 @@
+# ninja log v5
+5	879	1685664964000586000	libmessage.a	259516c610d8bb38
+4	216	1685664086398890857	CMakeFiles/main_cmake.dir/src/swap.cpp.o	7ee43d5cef22af7e
+0	209	1685579380235632189	CMakeFiles/main_cmake.dir/main.cpp.o	35031c062e2ad2fb
+224	718	1685788381347413354	hello-world	cbf2747742e3c7e6
+0	210	1685664841284845796	CMakeFiles/message.dir/include/Message.cpp.o	84e6550c4b60a6df
+0	28	1685789489551022047	build.ninja	c8f41254cdc05670
+216	242	1685664086426558736	main_cmake	c313c0532ada0a88
+5	219	1685493138074951231	CMakeFiles/hello-world.dir/hello-world.cpp.o	41ab292ffca692d5
+5	223	1685788380850431775	CMakeFiles/hello-world.dir/src/hello-world.cpp.o	99026ce5d3b7aa83
+4	209	1685666020230742793	CMakeFiles/hello-world.dir/include/Message.cpp.o	bf2e14ce89376620
+5	228	1685789619479442323	CMakeFiles/hello-world.dir/src/hello-world.cpp.o	99026ce5d3b7aa83
+228	255	1685789619508054193	hello-world	cbf2747742e3c7e6

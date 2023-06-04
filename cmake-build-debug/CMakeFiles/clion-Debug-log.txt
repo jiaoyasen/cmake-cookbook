@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/jiaoyasen/CLionProjects/cmake-cookbook -B /Users/jiaoyasen/CLionProjects/cmake-cookbook/cmake-build-debug
+-- Compile sources into a library? ON
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/jiaoyasen/CLionProjects/cmake-cookbook/cmake-build-debug
